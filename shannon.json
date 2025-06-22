@@ -1,0 +1,22 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/neilberkman/shannon/releases/download/v0.2.1/shannon_0.2.1_windows_amd64.zip",
+            "bin": [
+                "shannon.exe"
+            ],
+            "hash": "dc5869be8956f422b9067b23663b38702965e189b7cf4a2333e3b715b22f60dc"
+        },
+        "arm64": {
+            "url": "https://github.com/neilberkman/shannon/releases/download/v0.2.1/shannon_0.2.1_windows_arm64.zip",
+            "bin": [
+                "shannon.exe"
+            ],
+            "hash": "358cbb867c1744412cb43581183c04330ae4c2a691a836b0bbb57361b86bb738"
+        }
+    },
+    "homepage": "https://github.com/neilberkman/shannon",
+    "license": "MIT",
+    "description": "Advanced search and analysis tool for Claude conversation exports"
+}
