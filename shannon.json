@@ -1,19 +1,19 @@
 {
-    "version": "0.2.12",
+    "version": "0.2.13",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/neilberkman/shannon/releases/download/v0.2.12/shannon_0.2.12_windows_amd64.zip",
+            "url": "https://github.com/neilberkman/shannon/releases/download/v0.2.13/shannon_0.2.13_windows_amd64.zip",
             "bin": [
                 "shannon.exe"
             ],
-            "hash": "d51952b1e34477884b6ec4ac04d2a645cf0c614fe19298ae811ea5c5c6be5319"
+            "hash": "030306d7ef56d8db3fae6caac52be21f693fa2ec8d49ad500c5cf49ccb654f77"
         },
         "arm64": {
-            "url": "https://github.com/neilberkman/shannon/releases/download/v0.2.12/shannon_0.2.12_windows_arm64.zip",
+            "url": "https://github.com/neilberkman/shannon/releases/download/v0.2.13/shannon_0.2.13_windows_arm64.zip",
             "bin": [
                 "shannon.exe"
             ],
-            "hash": "3517a451aa83ad5f6c24f52f00131ba2dc1de487f18f835f63ffbf55f89fbfe3"
+            "hash": "0aaa4b2ad1bd421e43e691c392194e09cd5c34a96d550d1cfe7f03719894cf5d"
         }
     },
     "homepage": "https://github.com/neilberkman/shannon",
